@@ -3,17 +3,17 @@ h1 {
   font-weight: bold;
   display: flex;
   padding: 12px;
-  font-size: 50px;
+  font-size: 30px;
   margin: 0;
 }
 
 .layout {
   display: grid;
-  grid-template-columns: 300px 300px 300px 300px;
-  grid-template-rows: 140px 140px 140px 140px;
-  gap: 15px;
-  background-color: dodgerblue;
-  padding: 15px;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 90px 90px 90px 90px;
+  gap: 13px;
+  background-color: #1e90ff;
+  padding: 13px;
   width: fit-content;
   margin: 0 auto;
   justify-content: center;
@@ -21,7 +21,7 @@ h1 {
 
 .item {
   background-color: #d3eeff;
-  font-size: 50px;
+  font-size: 40px;
   text-align: center;
   display: flex;
   align-items: center;
